@@ -1,0 +1,7 @@
+com\example\studentreg\exception\UserNotFoundException.class
+com\example\studentreg\exception\UserNotFoundAdvice.class
+com\example\studentreg\StudentregApplication.class
+com\example\studentreg\data\StudentRepository.class
+com\example\studentreg\service\StudentService.class
+com\example\studentreg\controller\StudentController.class
+com\example\studentreg\data\Student.class
